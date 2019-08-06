@@ -1,5 +1,4 @@
 import pyowm #Либа
-import colorama #Либа №2
 from colorama import init
 from colorama import Fore, Back, Style
 from termcolor import colored
